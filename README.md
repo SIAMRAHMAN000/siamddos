@@ -23,7 +23,6 @@
 * [𝕀𝕟𝕗𝕠](#Info)
 * [𝕊𝕖𝕥𝕦𝕡](#Setup)
 * [ℂ𝕣𝕖𝕕𝕚𝕥𝕤](#Credits)
-* [ℙ𝕠𝕨𝕖𝕣](#Power)
 * [ℝ𝕦𝕝𝕖𝕤](#TOS)
 * [ℂ𝕠𝕟𝕥𝕒𝕔𝕥](#Contact)
 
@@ -55,9 +54,6 @@ node siamddos.js
 ```sh
 Siam Rahman (Owner Of This Tools.-.)
 ```
-
-# Power
-<img src="https://progqr.com/Foto.jpg"></img>
 
 # Rules:
 ```sh
