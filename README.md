@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 Spike DDoS 🚀
+# 🚀 Siam DDoS 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -46,14 +46,14 @@ npm i url
 npm i net
 npm i cluster
 npm i events
-git clone https://github.com/dandiers/Spike.git
-cd Spike
-node spike.js
+git clone https://github.com/siamrahman000/siamddos.git
+cd siamddos
+node siamddos.js
 ```
 
 # Credits
 ```sh
-dandier (Owner Of This Tools.-.)
+Siam Rahman (Owner Of This Tools.-.)
 ```
 
 # Power
@@ -68,7 +68,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @mrd4nd2
-Discord: dandier#1121
+Telegram: @httpsiam
 ```
 
